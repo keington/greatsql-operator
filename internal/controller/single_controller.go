@@ -31,8 +31,8 @@ import (
 
 	"github.com/bytedance/sonic"
 	singlev1 "github.com/keington/greatsql-operator/api/v1"
-	"github.com/keington/greatsql-operator/internal/pkg/kube"
-	"github.com/keington/greatsql-operator/internal/utils"
+	"github.com/keington/greatsql-operator/pkg/kube"
+	"github.com/keington/greatsql-operator/utils"
 	"k8s.io/apimachinery/pkg/types"
 )
 
